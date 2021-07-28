@@ -1,0 +1,24 @@
+correct sequences
+>NR_118889.1 Amycolatopsis azurea strain NRRL 11412 16S ribosomal RNA, partial sequence
+ACTGGTACCA
+>NR_118899.1 Actinomyces bovis strain DSM 43014 16S ribosomal RNA, partial sequence
+ACTGCGTACCA
+>NR_074334.1 Archaeoglobus fulgidus DSM 4304 16S ribosomal RNA, complete sequence >NR_118873.1 Archaeoglobus fulgidus DSM 4304 strain VC-16 16S ribosomal RNA, complete sequence >NR_119237.1 Archaeoglobus fulgidus DSM 4304 strain VC-16 16S ribosomal RNA, complete sequence
+ACTGGTACGCA
+>NR_118890.1 Actinokineospora fastidiosa strain ATCC 31181 16S ribosomal RNA, partial sequence
+ACTGAGTACTCA
+>NR_044838.1 Atopobium minutum strain NCFB 2751 16S ribosomal RNA, partial sequence
+ACTGACGTACTGTGCCA
+>NR_118908.1 Amycolatopsis methanolica 239 16S ribosomal RNA, partial sequence
+ACTGACCGTACTGCA
+>NR_118900.1 Actinomyces naeslundii strain DSM 43013 16S ribosomal RNA, partial sequence
+ACTGGTACTGTCA
+---------------
+Incorrect sequences
+>NR_044822.1 Pseudonocardia nitrificans strain IFAM 379 16S ribosomal RNA, partial sequence
+ACTGGTACAC
+>NR_026088.1 Alloiococcus otitis strain NCFB 2890 16S ribosomal RNA, partial sequence
+TGACGTACCA
+>NR_026093.1 Atopobium parvulum strain VPI 0546 16S ribosomal RNA, partial sequence
+ACTAGTAGCA
+

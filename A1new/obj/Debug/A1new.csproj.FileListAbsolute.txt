@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive - Queensland University of Technology\Bachelor\CAB201\Assignment\A1_StreamReader\A1new\A1new\bin\Debug\A1new.exe.config
+C:\Users\ASUS\OneDrive - Queensland University of Technology\Bachelor\CAB201\Assignment\A1_StreamReader\A1new\A1new\bin\Debug\A1new.exe
+C:\Users\ASUS\OneDrive - Queensland University of Technology\Bachelor\CAB201\Assignment\A1_StreamReader\A1new\A1new\bin\Debug\A1new.pdb
+C:\Users\ASUS\OneDrive - Queensland University of Technology\Bachelor\CAB201\Assignment\A1_StreamReader\A1new\A1new\obj\Debug\A1new.csprojAssemblyReference.cache
+C:\Users\ASUS\OneDrive - Queensland University of Technology\Bachelor\CAB201\Assignment\A1_StreamReader\A1new\A1new\obj\Debug\A1new.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - Queensland University of Technology\Bachelor\CAB201\Assignment\A1_StreamReader\A1new\A1new\obj\Debug\A1new.exe
+C:\Users\ASUS\OneDrive - Queensland University of Technology\Bachelor\CAB201\Assignment\A1_StreamReader\A1new\A1new\obj\Debug\A1new.pdb
